@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export const InputTodo = (props) => {
   const { todoText, onChange, onClick, disabled } = props;
@@ -7,7 +7,7 @@ export const InputTodo = (props) => {
       <input
         disabled={disabled}
         className="rounded-3xl py-3 px-3 outline-none bg-green-300 p-3"
-        placeholder="Todo"
+        placeholder="Enter Your Task"
         value={todoText}
         onChange={onChange}
       />
