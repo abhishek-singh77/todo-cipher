@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todo-cipher/static/css/main.926fae61.css",
-    "main.js": "/todo-cipher/static/js/main.2db4b518.js",
+    "main.js": "/todo-cipher/static/js/main.32203914.js",
     "static/js/787.57eebd60.chunk.js": "/todo-cipher/static/js/787.57eebd60.chunk.js",
     "index.html": "/todo-cipher/index.html",
     "main.926fae61.css.map": "/todo-cipher/static/css/main.926fae61.css.map",
-    "main.2db4b518.js.map": "/todo-cipher/static/js/main.2db4b518.js.map",
+    "main.32203914.js.map": "/todo-cipher/static/js/main.32203914.js.map",
     "787.57eebd60.chunk.js.map": "/todo-cipher/static/js/787.57eebd60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.926fae61.css",
-    "static/js/main.2db4b518.js"
+    "static/js/main.32203914.js"
   ]
 }
