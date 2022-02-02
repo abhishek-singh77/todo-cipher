@@ -4,7 +4,7 @@ export const IncompleteTodos = (props) => {
   const { incompleteTodos, onClickComplete, onClickDelete } = props;
   return (
     <div className=" bg-blue-800 font-bold text-center w-3/4 text-white mt-4 px-4 py-4 mx-auto">
-      <p className='py-2'>Todo List App</p>
+      <p className='py-2'>Incomplete Tasks</p>
       <ul>
         {incompleteTodos.map((todo, index) => {
           return (
