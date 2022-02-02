@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todocipher/static/css/main.926fae61.css",
+    "main.js": "/todocipher/static/js/main.67bf7ccd.js",
+    "static/js/787.57eebd60.chunk.js": "/todocipher/static/js/787.57eebd60.chunk.js",
+    "index.html": "/todocipher/index.html",
+    "main.926fae61.css.map": "/todocipher/static/css/main.926fae61.css.map",
+    "main.67bf7ccd.js.map": "/todocipher/static/js/main.67bf7ccd.js.map",
+    "787.57eebd60.chunk.js.map": "/todocipher/static/js/787.57eebd60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926fae61.css",
+    "static/js/main.67bf7ccd.js"
+  ]
+}
