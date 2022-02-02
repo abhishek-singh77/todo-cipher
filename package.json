@@ -1,7 +1,7 @@
 {
   "name": "todocipher",
   "version": "0.1.0",
-  "homepage": "http://abhishek-singh77.github.io/todo-cipher/",
+  "homepage": "https://abhishek-singh77.github.io/todo-cipher/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
